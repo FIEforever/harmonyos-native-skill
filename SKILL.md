@@ -60,7 +60,7 @@ triggers:
   - 暗色模式
   - darkmode
 author: FIEforever
-version: 2.2.0
+version: 2.2.1
 tags:
   - harmonyos
   - harmonyos-next
